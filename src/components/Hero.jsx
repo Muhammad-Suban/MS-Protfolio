@@ -19,7 +19,7 @@ const Hero = () => {
           <h3 className="text-3xl font-semibold text-gray-500 mb-6 max-w-2xl my-6">
             Creating dynamic, user-friendly, and
             <br className="sm:block hidden" />
-            responsive websites with a focus on seamless functionality and 
+             responsive websites with a focus on seamless functionality and 
             aesthetics.
           </h3>
 
